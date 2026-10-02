@@ -26,4 +26,7 @@ Open to work
 
 I'm open to opportunities in network engineering, network operations (NOC), AIOps and network automation, anywhere in the UK where service reliability, innovation and continuous improvement matter.
 
-You can find me on LinkedIn.
+You can find me on LinkedIn via https://www.linkedin.com/in/segunodebiyi/?isSelfProfile=true
+Email: olusegunodebiyi26@gmail.com
+Sheffield,
+United Kingdom.
